@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IDrunkApp</string>
+    <string name="search_for_devices">Scan for devices</string>
+    <string name="btn_search">Scan</string>
+    <string name="device">Device</string>
+    <string name="pair_with_device_dialog_title">Pair with this device?</string>
+    <string name="pair_with_device_dialog_title_positive">Pair</string>
+    <string name="pair_with_device_dialog_title_negative">Cancel</string>
+    <string name="device_nip">Name</string>
+    <string name="connect">Connect</string>
+    <string name="send_s">Send \'s\'</string>
+    <string name="alcohol_level">Alcohol level:</string>
+    <string name="receive">Receive</string>
+    <string name="stop">Stop</string>
+    <string name="voltage">Voltage:</string>
+    <string name="_0_0">0.00 mg/L</string>
+</resources>
